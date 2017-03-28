@@ -13,5 +13,9 @@ anh da sua
 
 dadasda
 aaasdfsf
+<<<<<<< HEAD
 
 hieu
+=======
+hieu1
+>>>>>>> hieu1
